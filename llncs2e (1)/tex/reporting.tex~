@@ -1,0 +1,121 @@
+The focus of this section is to present the broad overview of research within crosscutting concern mining we have acquired after classifying and categorizing primary studies. Moreover, we have used information drawn from this overview to answer this review study's research questions.
+
+Aiming to show the frequencies of publication of all identified techniques for mining crosscutting concern in the time span of the last 10 years we have plotted a bubble plot, which is depicted in Figure~\ref{map}. Bubble plots are essentially two x-y scatter plots with bubbles in category intersections. The size of each bubble is determined by the number of primary studies that have been classified as belonging to the categories corresponding to the bubble coordinates. This visual summary provides a bird's-eye view that enables one to pinpoint which categories have been emphasized in past research along with gaps and opportunities for future research. As shown in Figure~\ref{map} the facets we have used for organizing the map are the crosscutting concern mining techniques and year of publication. It is evident from observing both Figure~\ref{frequencies_techniques} and Figure~\ref{map} that most of selected studies use Fan-In Analysis, Identifier Analysis and Dynamic Analysis over the last 10 years. More precisely, among the 62 primary studies included herein, 27 describe Fan-In Analysis, Identifier Analysis or Dynamic Analysis within the academic context. In other hands, the techniques with less studies available in literature are Program Analysis Based, XScan-Concern-Peers, Data-Flow and Model Driven. Furthermore, it is argued that Fan-In Analysis, Identifier Analysis and Dynamic Analysis are evidence clusters (i.e., where there may be scope for more complete literature reviews to be undertaken). In contrast, Program Analysis Based, XScan-Concern-Peers, Data-Flow and Model Driven can be deemed as ``evidence desert'' (i.e., wherein better or new research are required). Based upon this information, we argue that the answer to second part of the RQ$_1$ is that Fan-In Analysis, Identifier Analysis and Dynamic Analysis are the techniques most used and Program Analysis Based, XScan-Concern-Peers, Data-Flow and Model Driven are the least used within academic settings.
+
+%According to this figure, a year-wise distribution of the CD, FI and DA reveals an increase in publication over time, most notable from 2006 to 2008. Moreover, Figure~\ref{frequencies_chart} depicts that the number of publication of these techniques have been stabilized in 2009 to 2011.
+
+\begin{figure*}
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[scale=0.50]{figuras/MapaDasTecnicas}
+\caption{Map containing a year-wise distribution of publications on the all techniques found.}
+\label{map}
+\end{figure*} 
+
+The majority of selected primary studies are published by IEEE, the sum of 20 studies. The others primaries studies have been selected from ACM, Scopus and Springer, 18, 16 and 8, respectively. As for the publication types, we have selected primaries studies that have been published in conferences, workshops and journals. The majority of the primary studies are conference paper (37), followed by workshop (16) and journal (9).
+
+%\begin{figure}[!h]
+%\centering
+  % Requires \usepackage{graphicx}
+  %\includegraphics[scale=0.90]{figuras/PublicationTypeAndJounal2}
+%\caption{Distribution of primary studies by publication type and distribution of primary studies by electronic database.}
+%\label{publication_pie}
+%\end{figure} 
+
+\begin{figure}[!h]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[scale=0.78]{figuras/FanPlotEmpiricalFormated}
+\caption{Which empirical strategies have been employed.}
+\label{empirical_strategies}
+\end{figure}      
+
+Aiming to answer the RQ$_2$ we have analyzed individually the 62 primary studies focus on gather which empirical strategies them have employed to validate the crosscutting concern mining techniques. Thus, in Figure~\ref{empirical_strategies} is depicted a fan chart wherein we have plot the collected data. As can be seen, among the 62 primary studies, 28 have been carried out experiments to validate their crosscutting concern mining techniques. Similarly, 24 primary studies have been employed some sort of case studies, and 10 neither have carried out experiments nor case studies to validate their techniques for mining crosscutting concern.
+Also, we identified 33 papers where at least one software is mentioned to carry out the experiments or case studies. The four softwares most used are: JHOTDRAW (31 times),TOMCAT (5 times),PETSTORE (5 times) and FREEMIND (4 times). Although some studies recommend the use of recall and precision to assess the developed techniques, just 12 papers were identified using one or both metrics. That is because generally its very difficult to know all the cross-cutting concerns involved in a medium- large-sized software system so just precision metric is presented, however some studies limit the software size considering few modules and as a result few evidence of cross-cutting concerns making possible calculate recall but with a sort of slunt, but the underlying problem is the lack of standards for assess this techniques and tools to have a real benchmark that could help future researchers in their works.
+In table II we present some techniques and tools with the precision and recall metrics for a particular JHOTDRAW version and common cross-cutting concerns; UNDO, persistence, visitor, iterator and observer. 
+
+
+\begin{table*}[!t]\scriptsize
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline {Techniques/Tool} &  {Precision} & {Recall} & {JHOTDRAW version} \\
+\cline{1-4}
+\hline
+HAC Clustering  &-	      &93.3\% 	      &6\\
+HAM  		&54\%         &	-      	      &6\\
+Dynamo  	&64\%         & 49\%          &5.4\\
+HAC Clustering  &87\%         & -      	      &5.2\\
+HAM  		&87\%         & -      	      &5.2\\
+MSAM  		&100\% 	      & 50\%   	      &-\\
+SOM Clustering  &51\%         & -      	      &5.4\\
+FINT  		&- 	      &	30\%	      &-\\
+CBFA  		&100\% - 80\% & 100\% - 80\%  &6\\
+XSCAN  		&100\% - 90\% & 100\% - 90\%  &6\\
+PRISM		&95\% 	      & 73\%	      &6\\
+
+\hline
+\end{tabular}
+\caption{Precision and recall for JHOTDRAW}
+\label{table_metrics}
+\end{table*}
+
+
+
+%\begin{figure*}[!t]
+%\centering
+  % Requires \usepackage{graphicx}
+ % \includegraphics[width=160mm, height=39mm]{figuras/timeLine2}
+%\caption{Chronological time order of these tools.}
+%\label{time_line}
+%\end{figure*}
+%As for answering the RQ$_3$
+
+%Throughout reading and gathering the data of the 62 primary studies, we found 33 tools regarding to mine crosscutting concern. They are: (\textit{1}) DynAMiT, (\textit{2}) Dynamo, (\textit{3}) CERBERUS, (\textit{4}) AspectRT, (\textit{5}) DelfStof, (\textit{6}) Find-Concept tool, (\textit{7}) Lexical-Chaining tool, (\textit{8}) ConAn, (\textit{9}) AMAV, (\textit{10}) SOM, (\textit{11}) CBFA, (\textit{12}) FAN-in metric tool, (\textit{13}) Fint, (\textit{14}) CBFA, (\textit{15}) PDG-DUP, (\textit{16}) ccdiml, (\textit{17}) CCFinder, (\textit{18}) COMMIT, (\textit{19}) HAM, (\textit{20}) line co-change, (\textit{21})  tool-chain,  (\textit{22}) MSAM, (\textit{23}) Aspect Browser, (\textit{24}) Grep, (\textit{25}) JQuery, (\textit{26}) FEAT, (\textit{27}) DRACO-PUC, (\textit{28}) AMT, (\textit{29}) FUNG, (\textit{30}) Xscan, (\textit{31}) RRAM,  (\textit{32}) CoDEx and (\textit{33}) Prism CC.   
+
+ %In Figure~\ref{time_line} is shown a linear chronological time order of these tools. Through this figure, it is possible to verify that the number of tools offering support to mine crosscutting concern is most notably from 2001 to 2009. Moreover, it is fairly evident from observing this figure that there was an accentuated decrease in the number of tools regarding to mine crosscutting concern from 2009 to 2011.
+
+
+%As for answering the RQ$_3$ in Table~\ref{table_tools} is shown which crosscutting concern mining techniques found have automated support. The numbers in the columns represent the tools which are stated above. Moreover, the rows represent the 18 techniques we found. Nevertheless, it worth highlighting that we have not found tool for all 18 techniques. For instance, we have not found tool which use model-driven to mine crosscutting concerns. The aims of this table is to facilitate the identification of which techniques have automated support. Thus, it can help to discover which tool best satisfies the need of the engineer. As can be seen in Table~\ref{table_tools} the ``Parser-Based'' technique noticeable has more automated support than the others techniques, i.e., 6 tools provides support to it. Probably this have taken place once the implementation of ``Parser-Based'' is undemanding.
+
+
+%\begin{table*}[!t]
+%\caption{Crosscutting mining concern techniques each tool supports.}
+%\label{table_tools}
+%\centering
+%  % Requires \usepackage{graphicx}
+%  \includegraphics[width=16cm, height=4cm]{figuras/Table}
+
+%\label{time_line}
+%\end{table*}
+
+%\begin{table*}[!t]\scriptsize
+%\centering
+%\begin{tabular}{cp{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}p{0.005cm}}
+%\hline {Techniques} & \multicolumn{33}{c}{Tools} \\ 
+ %\cline{2-34}
+ % &  &  &  &  &  &  &  &  &  &  & & & & & & & & & & && & & & & & & & & & & & \\
+ %& 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 &11 &12 &13 &14 &15 &16 &17 &18 &19 &20 &21 &22 &23 &24 &25 &26 &27 &28 &29 &30 &31 &32 &33 \\
+%\hline
+%EP  &*& & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & &\\
+%DA  & &*&*&*& & & & & & & & & & & & & & & & & & & & & & & & & & & & &\\
+%IA  & & & & &*& & & & & & & & & & & & & & & & & & & & & & & & & & & &\\
+%LC  & & & & & &*&*& & & & & & & & & & & & & & & & & & & & & & & & & &\\
+%MC  & & & & & & & &*&*& & & & & & & & & & & & & & & & & & & & & & & &\\
+%CC  & & & & & & & & & &*&*& & &*& & & & & & & & & & & & & & & & & & &\\
+%FI  & & & & & & & & & & & &*&*&*& & & & & & & & & & & & & & & & & & &\\
+%CD  & & & & & & & & & & & & & & &*&*&*& & & & & & & & & & & & & & & &\\
+%HB  & & & & & & & & & & & & & & & & & &*&*&*&*& & & & & & & & & & & &\\
+%IR  & & &*& & & & & & & & & & & & & & & & & & &*& & & & & & & & & & &\\
+%PAB & & &*& & & & & & & & & & & & & & & & & & & & & & & & & & & & & &\\
+%PB  & & & & & & & & & & & & & & & & & & & & & & &*&*&*&*&*&*& & & & &\\
+%PS  & & & & & & & & & & & & & & & & & & & & & & & & & & & & &*& & & &\\
+%XCP & & & & & & & & & & & & & & & & & & & & & & & & & & & & & &*& & &\\
+%MCT & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & &*& &\\
+%DF  & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & &*&\\
+%RW  & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & &*\\
+
+%\hline
+%\end{tabular}
+%\caption{Crosscutting mining concern techniques each tool supports.}
+%\label{table_tools}
+%\end{table*}

@@ -1,0 +1,89 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: eselaw2014.aux
+White space in argument---line 4 of file eselaw2014.aux
+ : \citation{PerezCastillo20121370,
+ :                                  SMR:SMR582, FuentesFernandez2012247, PrezCastillo2011519}
+I'm skipping whatever remains of this command
+White space in argument---line 38 of file eselaw2014.aux
+ : \citation{Perez-Castillo:2011:ECS:1982185.1982249,6080834,
+ :                                                            6498507,Perez-Castillo:2010:IBP:1875847.1875861}
+I'm skipping whatever remains of this command
+White space in argument---line 64 of file eselaw2014.aux
+ : \citation{5741334,
+ :                    SMR:SMR582}
+I'm skipping whatever remains of this command
+White space in argument---line 68 of file eselaw2014.aux
+ : \citation{5328801,
+ :                    delCastillo:2009:PRP:1529282.1529753, ICEISPerez:CastilloGCP12}
+I'm skipping whatever remains of this command
+White space in argument---line 74 of file eselaw2014.aux
+ : \citation{Perez-Castillo:2011:ECS:1982185.1982249,6080834,
+ :                                                            6498507,Perez-Castillo:2010:IBP:1875847.1875861}
+I'm skipping whatever remains of this command
+White space in argument---line 83 of file eselaw2014.aux
+ : \citation{PrezCastillo2011519,
+ :                                Perez-Castillo:2012:IEL:2231936.2231949, 6498507}
+I'm skipping whatever remains of this command
+White space in argument---line 97 of file eselaw2014.aux
+ : \citation{5741334,
+ :                    SMR:SMR582}
+I'm skipping whatever remains of this command
+White space in argument---line 98 of file eselaw2014.aux
+ : \citation{delCastillo:2009:PRP:1529282.1529753,
+ :                                                 ICEISPerez:CastilloGCP12}
+I'm skipping whatever remains of this command
+White space in argument---line 101 of file eselaw2014.aux
+ : \citation{Mazon:2007:MDM:1784489.1784497,
+ :                                           Guzman:2007:AAR:1339262.1339532, 4400179}
+I'm skipping whatever remains of this command
+White space in argument---line 102 of file eselaw2014.aux
+ : \citation{delCastillo:2009:PRP:1529282.1529753,
+ :                                                 5328801}
+I'm skipping whatever remains of this command
+The style file: splncs.bst
+Database file #1: acmSac2013.bib
+Warning--empty journal in Wieringa:2005:REP:1107677.1107683
+Warning--empty booktitle in library7329
+You've used 32 entries,
+            2087 wiz_defined-function locations,
+            646 strings with 10539 characters,
+and the built_in function-call counts, 6901 in all, are:
+= -- 582
+> -- 358
+< -- 1
++ -- 131
+- -- 99
+* -- 399
+:= -- 984
+add.period$ -- 54
+call.type$ -- 32
+change.case$ -- 31
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 400
+empty$ -- 840
+format.name$ -- 99
+if$ -- 1697
+int.to.chr$ -- 0
+int.to.str$ -- 32
+missing$ -- 33
+newline$ -- 163
+num.names$ -- 32
+pop$ -- 197
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 173
+stack$ -- 0
+substring$ -- 36
+swap$ -- 98
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 34
+width$ -- 34
+write$ -- 324
+(There were 10 error messages)

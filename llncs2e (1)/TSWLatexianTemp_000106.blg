@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: TSWLatexianTemp_000106.aux
+The style file: splncs.bst
+Database file #1: acmSac2013.bib
+Warning--empty journal in Wieringa:2005:REP:1107677.1107683
+Warning--empty booktitle in ICEISPerez:CastilloGCP12
+Warning--empty booktitle in library7329
+You've used 34 entries,
+            2087 wiz_defined-function locations,
+            657 strings with 11107 characters,
+and the built_in function-call counts, 7509 in all, are:
+= -- 641
+> -- 380
+< -- 2
++ -- 139
+- -- 105
+* -- 434
+:= -- 1060
+add.period$ -- 56
+call.type$ -- 34
+change.case$ -- 33
+chr.to.int$ -- 0
+cite$ -- 37
+duplicate$ -- 434
+empty$ -- 909
+format.name$ -- 105
+if$ -- 1851
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 35
+newline$ -- 173
+num.names$ -- 34
+pop$ -- 210
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 197
+stack$ -- 0
+substring$ -- 68
+swap$ -- 112
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 39
+width$ -- 36
+write$ -- 345
+(There were 3 warnings)

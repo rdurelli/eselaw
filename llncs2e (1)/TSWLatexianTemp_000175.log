@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.25)  2 DEC 2013 11:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.25)  2 DEC 2013 14:10
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/rafaeldurelli/Dropbox/Artigos Elaborados/ESELAW 2014/llncs2e (1)/TSWLatexianTemp_000106.tex"
-(/Users/rafaeldurelli/Dropbox/Artigos Elaborados/ESELAW 2014/llncs2e (1)/TSWLatexianTemp_000106.tex
+**"/Users/rafaeldurelli/Dropbox/Artigos Elaborados/ESELAW 2014/llncs2e (1)/TSWLatexianTemp_000175.tex"
+(/Users/rafaeldurelli/Dropbox/Artigos Elaborados/ESELAW 2014/llncs2e (1)/TSWLatexianTemp_000175.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
 (./llncs.cls
@@ -485,12 +485,12 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box57
-) (./TSWLatexianTemp_000106.aux
+) (./TSWLatexianTemp_000175.aux
 
 LaTeX Warning: Label `foo' multiply defined.
 
 )
-\openout1 = `TSWLatexianTemp_000106.aux'.
+\openout1 = `TSWLatexianTemp_000175.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -557,7 +557,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 37.
- (./tex/introduction.tex
+
+Overfull \hbox (3.20763pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/9 de-pen-dent meta-mod-els, such as Knowl-edge Dis-cov-ery Meta-model (KDM).
+ []
+
+(./tex/introduction.tex
 
 LaTeX Warning: Citation `5440163' on page 1 undefined on input line 5.
 
@@ -609,7 +614,7 @@ LaTeX Warning: Citation `Petersen:2008:SMS:2227115.2227123' on page 4 undefined 
 
 LaTeX Warning: Citation `Wieringa:2005:REP:1107677.1107683' on page 5 undefined on input line 51.
 
-[5]) (./tex/reporting.tex <figuras/Mapa_ESELAW_2014.pdf, id=83, 703.62875pt x 572.1375pt>
+[5]) (./tex/reporting.tex <figuras/Mapa_ESELAW_2014.pdf, id=84, 703.62875pt x 572.1375pt>
 File: figuras/Mapa_ESELAW_2014.pdf Graphic file (type pdf)
  <use figuras/Mapa_ESELAW_2014.pdf>
 Package pdftex.def Info: figuras/Mapa_ESELAW_2014.pdf used on input line 7.
@@ -622,7 +627,7 @@ Overfull \hbox (4.68997pt too wide) in paragraph at lines 7--8
 [6 <./figuras/Mapa_ESELAW_2014.pdf>]
 Underfull \vbox (badness 5105) has occurred while \output is active []
 
- [7] <figuras/pieChartModel.pdf, id=233, 273.02pt x 216.81pt> <use figuras/pieChartModel.pdf> <figuras/PackagesKDMFormatted.pdf, id=234, 376.40625pt x 246.9225pt> <use figuras/PackagesKDMFormatted.pdf>
+ [7] <figuras/pieChartModel.pdf, id=234, 273.02pt x 216.81pt> <use figuras/pieChartModel.pdf> <figuras/PackagesKDMFormatted.pdf, id=235, 376.40625pt x 246.9225pt> <use figuras/PackagesKDMFormatted.pdf>
 File: figuras/pieChartModel.pdf Graphic file (type pdf)
  <use figuras/pieChartModel.pdf>
 Package pdftex.def Info: figuras/pieChartModel.pdf used on input line 66.
@@ -636,7 +641,7 @@ Underfull \hbox (badness 10000) in alignment at lines 66--66
 [][][]
  []
 
-<figuras/TESTEVAI.pdf, id=236, 451.6875pt x 563.10374pt> <use figuras/TESTEVAI.pdf> <figuras/DistribuicaoANoArtigos.pdf, id=237, 439.6425pt x 512.91624pt> <use figuras/DistribuicaoANoArtigos.pdf>
+<figuras/TESTEVAI.pdf, id=237, 451.6875pt x 563.10374pt> <use figuras/TESTEVAI.pdf> <figuras/DistribuicaoANoArtigos.pdf, id=238, 439.6425pt x 512.91624pt> <use figuras/DistribuicaoANoArtigos.pdf>
 File: figuras/TESTEVAI.pdf Graphic file (type pdf)
  <use figuras/TESTEVAI.pdf>
 Package pdftex.def Info: figuras/TESTEVAI.pdf used on input line 83.
@@ -650,19 +655,19 @@ Underfull \hbox (badness 10000) in alignment at lines 83--83
 [][][]
  []
 
-
-LaTeX Warning: Citation `6311013' on page 8 undefined on input line 162.
-
-
-LaTeX Warning: Citation `6080786' on page 8 undefined on input line 162.
-
-
-LaTeX Warning: Citation `Mazon:2007:MDM:1784489.1784497' on page 8 undefined on input line 162.
-
-
-LaTeX Warning: Citation `Guzman:2007:AAR:1339262.1339532' on page 8 undefined on input line 162.
-
 [8 <./figuras/pieChartModel.pdf> <./figuras/PackagesKDMFormatted.pdf>]
+
+LaTeX Warning: Citation `6311013' on page 9 undefined on input line 162.
+
+
+LaTeX Warning: Citation `6080786' on page 9 undefined on input line 162.
+
+
+LaTeX Warning: Citation `Mazon:2007:MDM:1784489.1784497' on page 9 undefined on input line 162.
+
+
+LaTeX Warning: Citation `Guzman:2007:AAR:1339262.1339532' on page 9 undefined on input line 162.
+
 
 LaTeX Warning: Citation `5741334' on page 9 undefined on input line 164.
 
@@ -673,7 +678,7 @@ LaTeX Warning: Citation `SMR:SMR582' on page 9 undefined on input line 164.
 LaTeX Warning: Citation `4400179' on page 9 undefined on input line 164.
 
 
-Underfull \vbox (badness 4229) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9 <./figuras/TESTEVAI.pdf> <./figuras/DistribuicaoANoArtigos.pdf>]
 
@@ -743,17 +748,19 @@ LaTeX Warning: Citation `Perez-Castillo:2012:IEL:2231936.2231949' on page 11 und
 
 LaTeX Warning: Citation `6498507' on page 11 undefined on input line 194.
 
-) (./tex/discussion.tex) (./tex/principles_findinds.tex
+) (./tex/discussion.tex)
+Underfull \vbox (badness 1694) has occurred while \output is active []
 
-LaTeX Warning: Citation `5440163' on page 11 undefined on input line 1.
+ [11] (./tex/principles_findinds.tex
+
+LaTeX Warning: Citation `5440163' on page 12 undefined on input line 1.
 
 
-LaTeX Warning: Citation `Bruneliere:2010:MGE:1858996.1859032' on page 11 undefined on input line 1.
+LaTeX Warning: Citation `Bruneliere:2010:MGE:1858996.1859032' on page 12 undefined on input line 1.
 
 
-LaTeX Warning: Citation `5871783' on page 11 undefined on input line 1.
+LaTeX Warning: Citation `5871783' on page 12 undefined on input line 1.
 
-[11]
 
 LaTeX Warning: Citation `refactImpro' on page 12 undefined on input line 3.
 
@@ -800,13 +807,13 @@ LaTeX Warning: Citation `delCastillo:2009:PRP:1529282.1529753' on page 14 undefi
 
 LaTeX Warning: Citation `5328801' on page 14 undefined on input line 3.
 
-) (./TSWLatexianTemp_000106.bbl [14] [15])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
+) (./TSWLatexianTemp_000175.bbl [14] [15])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
  [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
- (./TSWLatexianTemp_000106.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 75.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
+ (./TSWLatexianTemp_000175.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 74.
 
 
 LaTeX Warning: There were undefined references.
@@ -814,21 +821,21 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
- 10385 strings out of 493315
- 155999 string characters out of 6137904
- 355379 words of memory out of 5000000
- 13560 multiletter control sequences out of 15000+600000
- 7635 words of font info for 27 fonts, out of 8000000 for 9000
+ 10387 strings out of 493315
+ 156018 string characters out of 6137904
+ 353379 words of memory out of 5000000
+ 13561 multiletter control sequences out of 15000+600000
+ 7980 words of font info for 28 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,25n,48p,2425b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on TSWLatexianTemp_000106.pdf (16 pages, 368317 bytes).
+ 44i,25n,48p,2424b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on TSWLatexianTemp_000175.pdf (16 pages, 375460 bytes).
 PDF statistics:
- 458 PDF objects out of 1000 (max. 8388607)
- 337 compressed objects within 4 object streams
+ 462 PDF objects out of 1000 (max. 8388607)
+ 340 compressed objects within 4 object streams
  81 named destinations out of 1000 (max. 500000)
  39 words of extra memory for PDF output out of 10000 (max. 10000000)
 

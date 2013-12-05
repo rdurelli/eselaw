@@ -2846,7 +2846,7 @@ Contribution Type}</string>
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{391, 2}, {693, 729}}</string>
+		<string>{{331, 231}, {1633, 945}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -2860,7 +2860,7 @@ Contribution Type}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-62, -264}, {1240.0000328487829, 1311.1111458436951}}</string>
+		<string>{{-1106, -504}, {3328.8889770743313, 1791.1111585593528}}</string>
 		<key>Zoom</key>
 		<real>0.44999998807907104</real>
 		<key>ZoomValues</key>

@@ -1,50 +1,50 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: TSWLatexianTemp_000293.aux
+The top-level auxiliary file: TSWLatexianTemp_000443.aux
 The style file: splncs.bst
 Database file #1: acmSac2013.bib
 Warning--empty journal in Wieringa:2005:REP:1107677.1107683
 Warning--empty booktitle in ICEISPerez:CastilloGCP12
 Warning--empty booktitle in library7329
-You've used 33 entries,
+You've used 32 entries,
             2087 wiz_defined-function locations,
-            652 strings with 10857 characters,
-and the built_in function-call counts, 7288 in all, are:
-= -- 622
-> -- 369
+            648 strings with 10705 characters,
+and the built_in function-call counts, 7080 in all, are:
+= -- 603
+> -- 361
 < -- 2
-+ -- 135
-- -- 102
-* -- 422
-:= -- 1030
-add.period$ -- 54
-call.type$ -- 33
-change.case$ -- 32
++ -- 132
+- -- 100
+* -- 412
+:= -- 1003
+add.period$ -- 52
+call.type$ -- 32
+change.case$ -- 31
 chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 421
-empty$ -- 880
-format.name$ -- 102
-if$ -- 1795
+cite$ -- 35
+duplicate$ -- 408
+empty$ -- 851
+format.name$ -- 100
+if$ -- 1741
 int.to.chr$ -- 0
-int.to.str$ -- 33
-missing$ -- 34
-newline$ -- 168
-num.names$ -- 33
-pop$ -- 203
+int.to.str$ -- 32
+missing$ -- 33
+newline$ -- 163
+num.names$ -- 32
+pop$ -- 196
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 191
+skip$ -- 185
 stack$ -- 0
 substring$ -- 68
-swap$ -- 109
+swap$ -- 106
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 3
-while$ -- 38
-width$ -- 35
-write$ -- 335
+while$ -- 37
+width$ -- 34
+write$ -- 325
 (There were 3 warnings)

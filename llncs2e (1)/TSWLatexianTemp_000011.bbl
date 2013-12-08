@@ -57,12 +57,6 @@ Moratalla, J., de~Castro, V., Sanz, M., Marcos, E.:
   Modernization of domain management at red.es.
 \newblock In: SRII Global Conf. (2012)
 
-\bibitem{6080786}
-Yazdanshenas, A.R., Moonen, L.:
-\newblock Crossing the boundaries while analyzing heterogeneous component-based
-  software systems.
-\newblock In: 27th IEEE Inter. Conf. on Software Maintenance. (2011)
-
 \bibitem{Mazon:2007:MDM:1784489.1784497}
 Maz\'{o}n, J.N., Trujillo, J.:
 \newblock A model driven modernization approach for automatically deriving
@@ -105,18 +99,6 @@ P{\'e}rez-Castillo, R., de~Guzm{\'a}n, I.G.R., Piattini, M.:
 \newblock Database schema elicitation to modernize relational databases.
 \newblock (2012)
 
-\bibitem{Rodriguez-Echeverria:2011:MLW:2186508.2186536}
-Rodr\'{\i}guez-Echeverr\'{\i}a, R., Clemente, P.J., Preciado, J.C.,
-  Sanchez-Figueroa, F.:
-\newblock Modernization of legacy web applications into rich internet
-  applications.
-\newblock In: 11th Inter. Conf. on Current Trends in Web Engineering. (2012)
-
-\bibitem{6385130}
-Boussaidi, G., Belle, A., Vaucher, S., Mili, H.:
-\newblock Reconstructing architectural views from legacy systems.
-\newblock In: Reverse Engineering, 19th Work. Conf. on. (2012)
-
 \bibitem{Perez-Castillo:2011:ECS:1982185.1982249}
 P{\'e}rez-Castillo, R., de~Guzm\'{a}n, Weber, B., Places, A.S.:
 \newblock An empirical comparison of static and dynamic business process
@@ -154,6 +136,12 @@ Fern\'{a}ndez-Ropero, M., P{\'e}rez-Castillo, R., Weber, B., Piattini, M.:
   simulation.
 \newblock In: Inter. Conf. on Theory and Practice of Model Transformations.
   (2012)
+
+\bibitem{dani_san}
+Santib\'{a}\~{n}ez, D., Durelli, R.S., Marinho, B., V.~de Camargo, V.:
+\newblock {A Combined Approach for Concern Identification in KDM models}.
+\newblock In: Latin-American Workshop on Aspect-Oriented Software Development.
+  LAWASP '7 (2013)
 
 \bibitem{5773392}
 Baresi, L., Miraz, M.:
